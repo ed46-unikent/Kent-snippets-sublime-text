@@ -1,0 +1,19 @@
+<snippet>
+<content><![CDATA[
+<div class="snippetBox">
+	<kentNewButton edition="2015.1" categories="classic">
+		<a href="d">
+			<div class="unikent-button classic secondary-color">
+				<div class="labelbar">
+					<h3>${1}</h3>
+				</div>
+			</div>
+		</a>
+	</kentNewButton>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>btn-sec</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

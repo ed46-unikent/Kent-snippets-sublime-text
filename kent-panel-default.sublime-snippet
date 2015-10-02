@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="snippetBox">
+	<kentPanel>
+		<div class="unikent-panel default-grey-color">
+			<div class="unikent-panel-content">
+				${1}
+			</div>
+		</div>
+	</kentPanel>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>panel-default</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
