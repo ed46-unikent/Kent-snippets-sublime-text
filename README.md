@@ -31,3 +31,6 @@ The scope for the below have been set to: text.html as that's my primary use. If
 * panel-sec - Secondary colour
 * panel-default - Default grey colour
 
+#### Misc
+* backToTop - generates <p> with a link to an id of '#top'
+* spacer - time saver for: <p>&nbsp;</p>
