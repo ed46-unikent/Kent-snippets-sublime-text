@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="wrapper" id="d">
+	<div class="left">
+		<img src="http://dummyimage.com/200x250/ccc/fff.png" alt="alt text">
+	</div>
+	<div class="right">
+		<p><strong>${1}</strong></p>
+		<p>${2}</p>
+  		<p class="backTop"><a href="#top">Back to top</a></p>
+	</div>
+	<br class="clearer">
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>prom-wrapper</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
