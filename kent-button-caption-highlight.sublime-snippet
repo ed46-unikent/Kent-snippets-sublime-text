@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<div class="snippetBox">
+	<kentNewButton edition="2015.1" categories="caption-overlay">
+		<a href="index.html">
+			<div class="unikent-button caption-overlay highlight-color">
+				<div class='image-frame'>
+					<img src="${1}">
+					<div class="content-wrapper">
+						<div class="labelbar">
+							<h3>${2}</h3>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</a>
+	</kentNewButton>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>btn-caption-high</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
