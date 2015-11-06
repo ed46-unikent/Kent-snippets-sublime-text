@@ -16,14 +16,20 @@ The scope for the below have been set to: text.html as that's my primary use. If
 * btn-sec - Secondary colour
 * btn-high - Highlight colour
 
-#### Photo buttons
+#### Classic photo buttons
 * btn-photo-pri - Primary colour
 * btn-photo-sec - Secondary colour
 * btn-photo-high - Highlight colour
 
+#### Caption overlay photo buttons
+* btn-caption-pri - Primary colour
+* btn-caption-sec - Secondary colour
+* btn-caption-high - Highlight colour
+
 #### Columns
 * twocol - Two columns
 * threecol - Three columns
+* equalcol - Two columns of equal width
 
 #### Panels
 * panel-high - Highlight colour
