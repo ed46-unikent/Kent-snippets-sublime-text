@@ -26,6 +26,11 @@ The scope for the below have been set to: text.html as that's my primary use. If
 * btn-caption-sec - Secondary colour
 * btn-caption-high - Highlight colour
 
+#### Image list buttons
+* btn-list-pri - Primary colour
+* btn-list-sec - Secondary colour
+* btn-list-high - highlight colour
+
 #### Columns
 * twocol - Two columns
 * threecol - Three columns

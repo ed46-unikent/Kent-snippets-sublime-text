@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+	
+
+	<div class="snippetBox">
+		<kentNewButton edition="2015.1" categories="image-list">
+			<div class="unikent-button image-list secondary-color">
+				<div class="labelbar">
+					<h3>Image List</h3>
+				</div>
+				<div class='image-frame'>
+					<img src="http://dummyimage.com/500x334/ccc/fff.png">
+					<div class="content-wrapper">
+						<div class="list">
+							<ul>
+								<li><a href='#'>${1}</a></li>
+								<li><a href='#'>${2}</a></li>
+								<li><a href='#'>${3}</a></li>
+								<li><a href='#'>${4}</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</kentNewButton>
+	</div>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>btn-list-sec-</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
